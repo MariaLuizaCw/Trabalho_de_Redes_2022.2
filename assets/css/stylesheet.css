@@ -43,6 +43,10 @@ body {
   background: #dddddd;
   color: #4c4d4d;
 }
+table, th, td {
+  border: 1px solid black;
+  padding: 15px;
+}
 
 /*-------- Preloader --------*/
 .preloader {
